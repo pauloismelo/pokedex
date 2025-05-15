@@ -34,3 +34,9 @@ Thumbs.db
 
 # angular
 .angular/
+
+#Mac files
+._*
+
+#Environment files
+.env
